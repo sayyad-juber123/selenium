@@ -9,5 +9,6 @@ public class DemoTest
      public void test()
      {
     	 Reporter.log("sampleTest class is executed",true);
+      Reporter.log("sampleTest class is executed",true);    
      }
 }
